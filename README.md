@@ -8,12 +8,6 @@
 
 
 
-[![sparks][sparks.io-badge]][sparks.io]
-[![Downloads][downloads-badge]][releases]
-[![Stargazers][stars-shield]][stars-url]
-
-<a href="https://github.com/JayWongSparks/sparks/blob/main/README.md">简体中文</a>｜<a href="https://github.com/JayWongSparks/sparks/blob/main/i18n/zh_en.md">English</a>
-
 强大且经验丰富的监控和记录系统可以立即解决矿场异常情况。
 
 在矿池级别上统计哈希率，并可以一目了然地查看任何货币的哈希率。
