@@ -79,7 +79,7 @@ CakeSystem受香港法律监管。请注意，不同国家/地区的法律要求
 
 
 [CakeSystem.io]: https://github.com/JayWongSparks/sparks
-[CakeSystem.io-badge]: https://img.shields.io/badge/CakeSystem-v0.9.9-green?logo=rust
+[CakeSystem.io-badge]: https://img.shields.io/badge/CakeSystem-v3.2.4-green?logo=rust
 [downloads-badge]: https://img.shields.io/github/downloads/ajeetdsouza/zoxide/total?logo=github&logoColor=white&style=flat-square
 [releases]: https://github.com/JayWongSparks/sparks/releases
 [stars-url]: https://github.com/JayWongSparks/sparks/stargazers
