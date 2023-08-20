@@ -7,7 +7,6 @@
 <h2>一款矿池级别的运维工具👍 </h2>
 
 <img src="/image/logo.png" alt="Logo" width="300">
-   <img src="/image/1.png" alt="Logo" width="670">
 
 [![CakeSystem][CakeSystem.io-badge]][CakeSystem.io]
 [![Downloads][downloads-badge]][releases]
