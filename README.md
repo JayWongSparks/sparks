@@ -6,9 +6,9 @@
 
 <h2>一款矿池级别的运维工具👍 </h2>
 
-<img src="/image/logo.png" alt="Logo" width="300">
 
-[![CakeSystem][CakeSystem.io-badge]][CakeSystem.io]
+
+[![sparks][sparks.io-badge]][sparks.io]
 [![Downloads][downloads-badge]][releases]
 [![Stargazers][stars-shield]][stars-url]
 
