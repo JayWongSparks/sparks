@@ -48,7 +48,11 @@ Q群240785460
 
 <img src="/image/logo-n.8f89ca19.png" alt="Logo" width="100">
 
-<p>感谢以上矿池在一定范围内提供了技术支持😊</p>
+<img src="/image/nav_logo.png" alt="Logo" width="100">
+
+<img src="/image/bitmain.webp" alt="Logo" width="100">
+
+<p>感谢以上矿池和矿机制造商在一定范围内提供了技术支持😊</p>
 
 # 支持的算法
 
