@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION="4.4.4"
+VERSION="4.4.6"
 DOWNLOAD_HOST="https://github.com/JayWongSparks/sparks/raw/main/linux"
 ORIGIN_EXEC="sparks-${VERSION}"
 
